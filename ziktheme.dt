@@ -1,0 +1,11 @@
+<theme>
+    <name>Theme</name>
+    <skinType>1</skinType>
+    <description>Theme bleu sobre - tactique sombre</description>
+    <previewUri>thememdr.jpg</previewUri>
+    <author>zik</author>
+    <version>1.0</version>
+    <dofusVersion>2.48</dofusVersion> 
+    <creationDate>16/09/2018</creationDate> 
+    <modificationDate>16/09/2018</modificationDate> 
+</theme>
